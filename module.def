@@ -1,0 +1,6 @@
+[Module]
+Name=JobPriorityManager
+Version=1
+Files=JobPriorityManager.lua
+Enabled=1
+Dependencies=minionlib

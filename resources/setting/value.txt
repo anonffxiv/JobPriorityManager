@@ -1,0 +1,11 @@
+local tbl = 
+{
+	isLockNotice = false,
+	isShowNotice = false,
+	owcOrderTDH = true,
+	recordLog = false,
+}
+
+
+
+return tbl
